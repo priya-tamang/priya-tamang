@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="href:https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">"/>
+  <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="href:https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </div>
  
  <div><br>
