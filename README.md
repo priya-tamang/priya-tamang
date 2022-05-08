@@ -1,10 +1,10 @@
- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></a>, I'm Priya, Computer Science Student!
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></a>, I'm Priya, Computer Science Undergraduate Student!
 </h1>
  
 <div align="center">
-  <a href="https://github.com/priya-tamang">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=priya-tamang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya-tamang&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priya-tamang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya-tamang&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
  <div style="display: inline_block"><br>
