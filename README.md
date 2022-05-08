@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img  align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  
  <div><br>
   <h3> Programming Skill :-</h3>
   <a href="https://www.instagram.com/piya__tamang/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
