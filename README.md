@@ -1,5 +1,5 @@
-<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height = "20" width="50px"></a>, I'm Priya, Computer Science Graduate Student!
-</h3>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height = "70" width="50px"></a>, I'm Priya, Computer Science Graduate Student!
+</h2>
  
 <div align="center">
   <a href="https://github.com/priya-tamang">
