@@ -1,4 +1,4 @@
-<h6 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></a>, I'm Priya, Computer Science Graduate Student!
+<h6 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height = "20" width="50px"></a>, I'm Priya, Computer Science Graduate Student!
 </h6>
  
 <div align="center">
