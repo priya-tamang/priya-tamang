@@ -1,4 +1,4 @@
-<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height = "50" width="50px"></a> I'm Priya,  </h3>
+<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height = "50" width="50px"></a> I'm Priya, an enthusiastic and driven learner! </h3>
  
 <div align="center">
   <a href="https://github.com/priya-tamang">
